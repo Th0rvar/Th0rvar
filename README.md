@@ -1,4 +1,4 @@
-### Hi there 👋
+## Languages/Tools
 
 <!--
 **Th0rvar/Th0rvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,webpack,nodejs,php,symfony,cs,lua)](https://skillicons.dev)
+
+## Tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,vscode,postman,mysql,docker,kubernetes,git)](https://skillicons.dev)
