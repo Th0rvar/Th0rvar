@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,webpack,nodejs,php,symfony,cs,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,webpack,nodejs,php,symfony,cs,lua)](https://skillicons.dev)
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)   
-[![My Skills](https://skillicons.dev/icons?i=phpstorm,vscode,postman,mysql,docker,kubernetes,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,debian,redhat,arch,apple)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,vscode,mysql,postgres,redis,postman)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,openstack,git,gitlab,github,discord)](https://skillicons.dev)
