@@ -1,4 +1,4 @@
-## Languages/Tools
+## Languages/Frameworks
 
 <!--
 **Th0rvar/Th0rvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,debian,redhat,arch,apple)](https://skillicons.dev)   
-[![My Skills](https://skillicons.dev/icons?i=phpstorm,vscode,mysql,postgres,redis,postman)](https://skillicons.dev)   
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,openstack,git,gitlab,github,discord)](https://skillicons.dev)
+### OS
+
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,debian,redhat,arch,apple)](https://skillicons.dev)  
+
+### Software
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,vscode,mysql,redis,docker,kubernetes)](https://skillicons.dev)   
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=postman,openstack,git,gitlab,github,discord)](https://skillicons.dev)
